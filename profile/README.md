@@ -1,5 +1,3 @@
-[![](https://img.shields.io/pypi/dm/jobase.svg?label=PyPI%20downloads)](https://pypi.org/project/jobase)
-
 ### Welcome to JoBase!
 
 JoBase is a fast Python game library for beginner coders.
