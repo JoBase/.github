@@ -1,4 +1,4 @@
-### Welcome to JoBase!
+### Welcome to JoBase
 
 [![](https://img.shields.io/pypi/dm/jobase.svg?label=PyPI%20downloads)](https://pypi.org/project/jobase)
 [![](https://img.shields.io/github/last-commit/jobase/jobase?label=Last%20commit)](https://github.com/JoBase/JoBase/graphs/commit-activity)
